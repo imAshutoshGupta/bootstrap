@@ -1,0 +1,22 @@
+-> GRID
+Intersection of rows and columns is called as grid.
+
+-> Need of grid in designing UI
+With the help of grid, HTML elements can be placed more accurately on the browser. Bootstrap provides 12 column grid structure i.e. browser width is divided into 12 equi-spaced columns.
+
+-> Breakpoint
+It is a device width in pixel at which layout changes.
+
+-> Container
+It is a fundamental building block of webpage. Without container grid structure cannot be formed. There are three types of container classes in bootstrap
+1) .container
+2) .container-breakpoint(sm,md,lg,xl,xxl)
+3) .container-fluid
+
+
+-> MARGIN
+mt - 1 to 5
+mb - 
+ms - to left
+me - to right
+mx - ms and me
